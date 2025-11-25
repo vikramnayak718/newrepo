@@ -1,0 +1,8 @@
+set -x
+nproc
+
+touch firstfile secondfile 
+
+calculator functionality is added to the main file . 
+
+
