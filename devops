@@ -8,5 +8,4 @@ nproc
 ls
  
 touch firstfile secondfile 
-
-use top command to know the processews that are running in the virtual machine 
+ 
